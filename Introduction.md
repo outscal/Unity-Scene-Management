@@ -12,11 +12,16 @@ When you create a new scene for the first time in some unity versions, a Camera 
 
 Other options from File at the top, you can also use “Open Scene” to open any other scene in the Editor, and “Save” or “Save As” to save the current scene or any edits on top of it.
 
+Unity also provides the ability to edit multiple scenes using the “Open Scene Additive” as shown, right-clicking any scene will pop-up this option. Another way to get this option is by dragging one or more scenes from the Project Window into the Hierarchy Window.
+When you have multiple scenes open in the editor, each scene’s contents are displayed separately in the hierarchy window. Each scene’s contents appears below a scene divider bar which shows the scene’s name and its save state.
+
+![Multi_Scene](https://user-images.githubusercontent.com/44625252/152947503-2b8a5919-762a-4d69-93a2-5dddf9774220.png)
+
 ---
 <aside>
 
 > 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
 </aside>
-![discord_png](https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
+!(https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
 
 ---
