@@ -34,6 +34,7 @@ A complete list of all functions can be found in the Unity documentation -
 
 > 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
 </aside>
-![discord_png](https://user-images.githubusercontent.com/44625252/152947910-4fe0388a-1a2f-4592-9efc-f7e8aa64f0f5.png)
+
+![discord_png](https://user-images.githubusercontent.com/44625252/152947589-0a46eccb-669b-4b0c-a73b-b9b168446a8b.png)
 
 ---
