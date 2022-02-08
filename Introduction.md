@@ -22,6 +22,7 @@ When you have multiple scenes open in the editor, each scene’s contents are di
 
 > 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
 </aside>
-!(https://user-images.githubusercontent.com/44625252/152805317-45a22cd7-fbf5-49cc-a13d-01282d498b03.png)
+
+![discord_png](https://user-images.githubusercontent.com/44625252/152947589-0a46eccb-669b-4b0c-a73b-b9b168446a8b.png)
 
 ---
