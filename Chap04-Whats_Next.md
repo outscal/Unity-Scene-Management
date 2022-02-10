@@ -4,7 +4,7 @@
 
 Congratulations on completing this course.
 
-Share your updates with your clanmates on [Discord](https://discord.com/invite/R4hfXhsWjN)?
+Share your updates with your clanmates on [Discord](https://discord.com/invite/R4hfXhsWjN).
 
 Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtable.com/shrXGSkgf5NClpoIU) to let us know how you're progressing.
 
@@ -14,6 +14,6 @@ Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtabl
 
 Try making 2 scenes in unity by yourself and transition between them using a button when played in-game.
 
-You can also go through the 2D Platformer Course here - [Unity Courses](https://academy.outscal.com/unity-course-content/)
+You can also go through the 2D Platformer Course here - [Unity Courses](https://academy.outscal.com/unity-course-content).
 
 ![Outro](https://media.giphy.com/media/5hgYDDh5oqbmE4OKJ3/giphy.gif)
