@@ -2,7 +2,7 @@
 
 Scene Management is another concept used in Unity to manage scenes. A game can have as many scenes required but will definitely require one scene at least. Let us understand what is a scene first.
 
-https://media.giphy.com/media/9PtGEwuMHXJHkZQ9EN/giphy.gif
+![Change Scene!](https://media.giphy.com/media/9PtGEwuMHXJHkZQ9EN/giphy.gif)
 
 For any new script file, we need to write at the beginning - using UnityEngine.SceneManagement; which gives us access to the Scene and SceneManager Class related functions.
 Scene: A scene can be defined as an asset which contains all or part of a game or application, this is where you get to work with content in Unity. To create a new scene go to File ->  New Scene or Ctrl+N (hotkey shortcut).
