@@ -1,6 +1,8 @@
 # Scene Manager
 
-So, essentially Scenes contain all the objects of your game or bits and pieces of it if you are using multiple scenes for your game. In each scene, you will place your environments, obstacles, and decorations, essentially designing and building your game in pieces, you can also think of scenes as individual levels if there are multiple levels in your game.
+So, essentially Scenes contain all the objects of your game or bits and pieces of it if you are using multiple scenes for your game. In each scene, you will place your environments, obstacles, and decorations, essentially designing and building your game in pieces, you can also think of scenes as individual levels if there are multiple levels in your game. So how do you perform the scene related functions you ask? There is a library ofcourse.
+
+![Q!]https://media.giphy.com/media/8mndEBLsg9Whg2Sduv/giphy.gif
 
 The library that can be used to import the scene related important functions is shown below:
 using UnityEngine.SceneManagement;
@@ -29,12 +31,6 @@ A complete list of all functions can be found in the Unity documentation -
 
 [https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html](https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html)
 
----
-<aside>
+On to the field to dirty your hands soldier! Think of how different scenes in a battle transitions and where some of these functions can be used.
 
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152947589-0a46eccb-669b-4b0c-a73b-b9b168446a8b.png)
-
----
+![Got!]https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif
