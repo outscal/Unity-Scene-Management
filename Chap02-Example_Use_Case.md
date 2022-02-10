@@ -1,5 +1,11 @@
 # Example Use Case
 
+So, did you think of ways to implement these functions to manage your scenes?
+
+Hmmm, maybe think of any game that you have played, and what were different scenes that took place and loaded each time you performed some task.
+
+![Change_scene!](https://media.giphy.com/media/yZf5WeLUsi0JG/giphy.gif)
+
 A typical example of usage is shown below, which simply loads the scene based on the name of the scene:
 
 ![LoadScene](https://user-images.githubusercontent.com/44625252/152946474-6df2bcae-a3fb-4649-85fb-be7fb393c11b.png)
@@ -24,12 +30,6 @@ The index number at the of each scene in this window mentioned towards the right
 
 Also, you can reorder the scenes in this list as required for your game. Remember the first scene which is labelled 0 is the one that is loaded at first whenever the game is started from the build.
 
----
-<aside>
+Think of few other use cases of implementing scene related functions, maybe in your own game or any game that you played.
 
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152948137-97167a02-bba1-47b9-b33c-fb2ac41f11fc.png)
-
----
+![Think!](https://media.giphy.com/media/777Aby0ZetYE8/giphy.gif)
