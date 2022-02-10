@@ -1,5 +1,13 @@
 # Introduction
 
+Aloha fellow clanmate!!!
+
+Have you ever wondered how you are able to see different scenes of a video or game in one screen, in a movie perhaps?
+
+![Transition!](https://media.giphy.com/media/IepriDYu8gcidIVZPB/giphy.gif)
+
+This is what is called a transition between scenes.
+
 Scene Management is another concept used in Unity to manage scenes. A game can have as many scenes required but will definitely require one scene at least. Let us understand what is a scene first.
 
 ![Change Scene!](https://media.giphy.com/media/9PtGEwuMHXJHkZQ9EN/giphy.gif)
@@ -20,12 +28,6 @@ When you have multiple scenes open in the editor, each scene’s contents are di
 
 ![Multi_Scene](https://user-images.githubusercontent.com/44625252/152947503-2b8a5919-762a-4d69-93a2-5dddf9774220.png)
 
----
-<aside>
+Go on, to the next chapter, hope to see you there.
 
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-</aside>
-
-![discord_png](https://user-images.githubusercontent.com/44625252/152947589-0a46eccb-669b-4b0c-a73b-b9b168446a8b.png)
-
----
+![See you!](https://media.giphy.com/media/3o6EQxMHJSJBF7DSKI/giphy.gif)
