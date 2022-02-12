@@ -28,6 +28,15 @@ When you have multiple scenes open in the editor, each scene’s contents are di
 
 ![Multi_Scene](https://user-images.githubusercontent.com/44625252/152947503-2b8a5919-762a-4d69-93a2-5dddf9774220.png)
 
+## Earn Learning points to get more rewards 🎁
+
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
+
+**Click on the gif below and follow the instructions** ⏬
+
+[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+
+
+
 Go on, to the next chapter, hope to see you there.
 
-![See you!](https://media.giphy.com/media/3o6EQxMHJSJBF7DSKI/giphy.gif)
