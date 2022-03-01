@@ -9,9 +9,9 @@ using UnityEngine.SceneManagement;
 
     </br>
 
-     ```cs
+    ```cs
     
-using UnityEngine.SceneManagement;
+    using UnityEngine.SceneManagement;
     ```
 
 Implementing the above in any script allows us to use the functions related to a scene, listed below are some of the common ones that are used:
