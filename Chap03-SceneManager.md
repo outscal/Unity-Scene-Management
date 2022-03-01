@@ -5,14 +5,10 @@ So, essentially Scenes contain all the objects of your game or bits and pieces o
 ![Q!](https://media.giphy.com/media/8mndEBLsg9Whg2Sduv/giphy.gif)
 
 The library that can be used to import the scene related important functions is shown below:
+
+```
 using UnityEngine.SceneManagement;
-
-    </br>
-
-    ```cs
-    
-    using UnityEngine.SceneManagement;
-    ```
+```
 
 Implementing the above in any script allows us to use the functions related to a scene, listed below are some of the common ones that are used:
 
