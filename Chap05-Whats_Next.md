@@ -23,6 +23,4 @@ You can also click here - [Click Here!](https://academy.outscal.com/welcome/buil
 
 Try making 2 scenes in unity by yourself and transition between them using a button when played in-game.
 
-You can also go through the 2D Platformer Course here - [Unity Courses](https://academy.outscal.com/unity-course-content).
-
 ![Outro](https://media.giphy.com/media/5hgYDDh5oqbmE4OKJ3/giphy.gif)
