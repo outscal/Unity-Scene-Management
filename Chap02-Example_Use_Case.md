@@ -6,9 +6,7 @@ Hmmm, maybe think of any game that you have played, and what were different scen
 
 ![Change_scene!](https://media.giphy.com/media/yZf5WeLUsi0JG/giphy.gif)
 
-A typical example of usage is shown below, which simply loads the scene based on the name of the scene:
-
-![LoadScene](https://user-images.githubusercontent.com/44625252/152946474-6df2bcae-a3fb-4649-85fb-be7fb393c11b.png)
+You will get more hints on how to do this in the next chapters, till then try to think and implement the same.
 
 Remember to add the scenes in the list from File->Build Settings as shown:
 
