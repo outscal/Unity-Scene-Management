@@ -7,7 +7,12 @@ So, essentially Scenes contain all the objects of your game or bits and pieces o
 The library that can be used to import the scene related important functions is shown below:
 using UnityEngine.SceneManagement;
 
-![script_sceneManagement](https://user-images.githubusercontent.com/44625252/152946079-576e14cd-cab0-4183-b1bc-4fbc8743aec1.png)
+    </br>
+
+     ```cs
+    
+using UnityEngine.SceneManagement;
+    ```
 
 Implementing the above in any script allows us to use the functions related to a scene, listed below are some of the common ones that are used:
 
