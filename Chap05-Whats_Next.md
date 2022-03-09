@@ -23,4 +23,10 @@ You can also click here - [Click Here!](https://academy.outscal.com/welcome/buil
 
 Try making 2 scenes in unity by yourself and transition between them using a button when played in-game.
 
+Good momentum, keep it up and add some enemies to your game - [Patrolling Enemies](https://academy.outscal.com/unity2d-project-patrolling-enemies-1/)
+
+We have an active community to help you out as well. Join us here - [Discord](https://discord.com/invite/R4hfXhsWjN)
+
+You're doing great! I'll see you in the next one
+
 ![Outro](https://media.giphy.com/media/5hgYDDh5oqbmE4OKJ3/giphy.gif)
